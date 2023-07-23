@@ -5,6 +5,12 @@ Hi and welcome to my Github Page! I'm glad to have you here.🥳
 ## Who I Am
 I am Olagunju Isaac Afolabi or just AFL, I loved to paint, now I find expression in coding and I do it with Picasso-kinda finesse because I discovered, coding is ART! You will typically find me building elegant and performant frontends with React and React Native or building Robust and scalable APIs on the Node.Ts stack. Every other day, I am waging code wars and conquering algo galaxies on hackerrank. Here you'll find my gallery of honor, an array of projects that showcase my skills and conquests.
 
+What I've done
+Here are a few of my favorite projects that I've worked on recently:
+ChatGPT Page : [chat](https://myprojectgpt.onrender.com/)
+Wolburg Website: https://www.wolburg.com/
+OGC Publications: https://ogcpublications.com/
+OCM Website: https://onoriocutane.org/
 
 ## What I Know
 Here are some of the skills that I bring to the table:
