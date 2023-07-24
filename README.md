@@ -15,9 +15,13 @@ This is an informative web page about OpenAI's ChatGPT I built shortly after the
   - Perfectly placed media queries for satisfactory responsiveness covering almost devices
 
 2. Wolburg Website: [Click to preview](https://wolburg.com/)
-   Together with a team of four developers and a designer, I contributed significantly to building this e-comm web app. I drafted Its data models, documented all required endpoints, built half of its UI react components and did its backend project set up.
-
+   Together with a team of four developers and a designer, I contributed significantly to building this e-comm web app. I:
+   - Drafted Its data models
+   - Documented all required endpoints
+   - Built half of its UI react components and
+   - Worked on its backend project set up.
 3. OGC Publications: [Click to preview](https://ogcpublications.com/)
+   I was responsible for optimising, maintaining, rebuilding and adding features to the project.
 4. OCM Website: https://onoriocutane.org/
 
 ## Recent Blog Posts
@@ -38,7 +42,7 @@ DevOps using AWS, Azure and Docker
 
 👯 I’m open to remote job opportunites.
 
-## 📫 Where You'll Find Me:
-Social Media Twitter | LinkedIn |
+## Thanks for Visiting!
 
+Thanks for stopping by and checking out my GitHub profile. Feel free to explore my repositories, star the projects you find interesting, and don't forget to follow me for updates on my latest work!
 
