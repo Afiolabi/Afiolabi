@@ -1,16 +1,30 @@
-# About-me
-
 Hi and welcome to my Github Page! I'm glad to have you here.🥳
 
-## Who I Am
+# About-me
 I am Olagunju Isaac Afolabi or just AFL, I loved to paint, now I find expression in coding and I do it with Picasso-kinda finesse because I discovered, coding is ART! You will typically find me building elegant and performant frontends with React and React Native or building Robust and scalable APIs on the Node.Ts stack. Every other day, I am waging code wars and conquering algo galaxies on hackerrank. Here you'll find my gallery of honor, an array of projects that showcase my skills and conquests.
 
-What I've done
-Here are a few of my favorite projects that I've worked on recently:
-ChatGPT Page : [chat](https://myprojectgpt.onrender.com/)
-Wolburg Website: https://www.wolburg.com/
-OGC Publications: https://ogcpublications.com/
-OCM Website: https://onoriocutane.org/
+## Featured Projects
+Here are a few of my featured projects:
+1. ChatGPT Page : [Click to preview](https://myprojectgpt.onrender.com/)
+This is an informative web page about OpenAI's ChatGPT I built shortly after the chatbot was lauched. It is a showcase of my frontend development skills, particularly my mastery of:
+  - React Functional components and their reusability
+  - React file and folder structure
+  - CSS flex & grid properties
+  - Fundamentals of the CSS BEM Model
+  - Soft and pleasant animations to complex gradients
+  - Perfectly placed media queries for satisfactory responsiveness covering almost devices
+
+2. Wolburg Website: [Click to preview](https://wolburg.com/)
+   Together with a team of four developers and a designer, I contributed significantly to building this e-comm web app. I drafted Its data models, documented all required endpoints, built half of its UI react components and did its backend project set up.
+
+3. OGC Publications: [Click to preview](https://ogcpublications.com/)
+4. OCM Website: https://onoriocutane.org/
+
+## Recent Blog Posts
+I occasionally write about topics related to Tech, Node.js, React, React Native. 
+Check out some of my recent blog posts:
+1. [Tech Talk With Afolabi](https://bit.ly/3rI3AWh)
+   Here I held a live seminar introducing would be developers to the world of tech, particularly software development
 
 ## What I Know
 Here are some of the skills that I bring to the table:
