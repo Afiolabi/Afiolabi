@@ -49,8 +49,8 @@ Check out some of my recent blog posts:
 ## Contact Me
 I'm always excited to connect with fellow developers and tech enthusiasts. I am also open to work on exciting projects. Feel free to reach out to me through one of the following channels:
 
-- Email: afolabiolagunju@example.com
-- LinkedIn: [Click here](https://www.linkedin.com/in/isaacolagunju/)
+- [Email](afolabiolagunju@example.com)
+- [LinkedIn](https://www.linkedin.com/in/isaacolagunju/)
 
 
 ## Thanks for Visiting!
