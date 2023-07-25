@@ -31,7 +31,8 @@ This is an informative web page about OpenAI's ChatGPT I built shortly after the
 I occasionally write about topics related to Tech, Node.js, React, React Native. 
 Check out some of my recent blog posts:
 1. [Tech Talk With Afolabi](https://bit.ly/3rI3AWh)
-   Here I held a live seminar introducing would be developers to the world of tech, particularly software development
+   Here I held a live seminar introducing would be developers to the world of tech, particularly software development.
+   [](https://github.com/Afiolabi/Afiolabi/blob/main/Screenshot%202023-07-25%20at%209.30.43%20PM.png)
 
 ## Technologies I Use
   - Front-end development:HTML, CSS, JavaScript, MaterialUI, Bootstrap, Tailwind, React, React Native, VueJs and NextJs
