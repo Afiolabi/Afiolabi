@@ -3,7 +3,7 @@ Hi and welcome to my Github Page! I'm glad to have you here.🥳
 # About-me
 I am Olagunju Isaac Afolabi or just AFL, I loved to paint, now I find expression in coding and I do it with Picasso-kinda finesse because I discovered, coding is ART! You will typically find me building elegant and performant frontends with React and React Native or building Robust and scalable APIs on the Node.Ts stack. 
 - 🔭 I’m currently working on a React Video Chat Application using WebRTC.
-- 🌱 I’m currently learning Next.Js; TDD with Jest, Cypress, Mocha; UI/UX design with Don Norman under the ["Design for a better world"](https://www.interaction-design.org/courses/design-for-a-better-world-with-don-norman-course?utm_term=landing_page&utm_content=dfbw_landing_page_li&utm_campaign=dfbw-course&utm_medium=cpc&utm_source=linkedin) course fron IxDF.
+- 🌱 I’m currently learning Next.Js; Microservices Design Pattern; TDD with Jest, Cypress, Mocha; UI/UX design with Don Norman under the ["Design for a better world"](https://www.interaction-design.org/courses/design-for-a-better-world-with-don-norman-course?utm_term=landing_page&utm_content=dfbw_landing_page_li&utm_campaign=dfbw-course&utm_medium=cpc&utm_source=linkedin) course fron IxDF.
   
 ## Featured Projects
 Here are a few of my featured projects:
