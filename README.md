@@ -42,9 +42,9 @@ Check out some of my recent blog posts:
   - Design: Figma, AdobeXD
   - Agile Tools: ClickUp, Atlassian (Jira), Trello
 
-👯 I’m looking to collaborate on more open source projects.
+👯 I’m looking to collaborate on open source projects related to IOT solutions built on Node or Node-RED.
 
-👯 I’m open to remote job opportunites.
+👯 I’m open to remote job offers.
 
 ## Contact Me
 I'm always excited to connect with fellow developers and tech enthusiasts. I am also open to work on exciting projects. Feel free to reach out to me through one of the following channels:
