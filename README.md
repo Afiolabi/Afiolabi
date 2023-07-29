@@ -24,7 +24,7 @@ This is an informative web page about OpenAI's ChatGPT I built shortly after the
    - Worked on its backend project set up.
 3. OGC Publications: [Click to preview](https://ogcpublications.com/)
    - I was responsible for optimising, maintaining, rebuilding and adding features to the project.
-5. OCM Website: [Click to preview](https://onoriocutane.org/) 
+5. OC Ministries Website: [Click to preview](https://onoriocutane.org/) 
    - I was responsible for optimising, maintaining, rebuilding and adding features to the project.
 
 ## Recent Blog Posts
